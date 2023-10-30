@@ -1,6 +1,6 @@
 ---
 layout: cv
-cv_pdf: "https://www.dropbox.com/scl/fi/baydir1lr6sxo8710neay/ARE4476_Syllabus_fall23.pdf?rlkey=sdderjw9ui4brcj0l49oywdxk&dl=0"
+cv_pdf: example_pdf.pdf
 nav: false
 nav_order: 4
 ---
