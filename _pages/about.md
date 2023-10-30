@@ -2,7 +2,7 @@
 layout: about
 title: about
 permalink: /
-subtitle: <a href='https://www.linkedin.com/in/sijiasoniachen/'>LinkedIn</a>. 
+subtitle: <a href='https://www.linkedin.com/in/sijiasoniachen/'>LinkedIn</a>. <a href='sijia.chen@uconn.edu'>Contacts</a>.<a href="mailto:{{sijia.chen@uconn.edu|sijia.chen@uconn.edu}}" title="jing.liu@sd.edu"><i class="fas fa-envelope"></i></a>
 
 profile:
   align: right
