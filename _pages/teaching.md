@@ -7,9 +7,9 @@ nav: true
 nav_order: 5
 ---
 
- `_projects/`
+<strong style="font-size: 20px;">Instructor of Record</strong>
+<strong style="font-size: 24px;">Instructor of Record</strong>
 
-<font size="5"> `_Instructor of Record/` </font>
 <p>&nbsp;</p>
 ARE 4476: International Trade and Policy, University of Jon (Fall 2023) - [Syllabus](https://www.dropbox.com/scl/fi/baydir1lr6sxo8710neay/ARE4476_Syllabus_fall23.pdf?rlkey=sdderjw9ui4brcj0l49oywdxk&dl=0)
 
