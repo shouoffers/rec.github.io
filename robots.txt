@@ -1,0 +1,4 @@
+User-agent: *
+Disallow:
+
+Sitemap: https://rec.github.io/sitemap.xml
