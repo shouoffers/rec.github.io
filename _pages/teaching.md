@@ -9,13 +9,17 @@ nav_order: 5
 
  `_projects/`
 
-<font size="2">**Instructor of Record** </font>
+<font size="4"> **Instructor of Record** </font>
 
 ARE 4476: International Trade and Policy, University of Jon (Fall 2023) - [Syllabus](https://www.dropbox.com/scl/fi/baydir1lr6sxo8710neay/ARE4476_Syllabus_fall23.pdf?rlkey=sdderjw9ui4brcj0l49oywdxk&dl=0)
 
- 
 
-Teaching Assistant
+
+<p>&nbsp;</p>
+
+
+
+<font size="5"> Teaching Assistant </font>
 
 Econ 2215:  Business Management (Spring 2023)
 
