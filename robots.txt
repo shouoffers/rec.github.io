@@ -1,4 +1,4 @@
 User-agent: *
 Disallow:
 
-Sitemap: https://rec.github.io/sitemap.xml
+Sitemap: https://shouoffers.github.io/rec.github.io/sitemap.xml
