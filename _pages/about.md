@@ -26,8 +26,7 @@ I'm in the 2023-24 job market, and I'll be presenting my work at the [2023 INCS]
 <p>&nbsp;</p>
 <p>&nbsp;</p>
 
-
-<div id="contact">
+<!-- <div id="contact">
         <h2>Get in Touch</h2>
         <div id="contact-form">
             <form action="https://formspree.io/f/moqorgbn" method="POST">
@@ -41,9 +40,7 @@ I'm in the 2023-24 job market, and I'll be presenting my work at the [2023 INCS]
             <input type="submit" value="Send">
           </form>
          </div>
-    </div>
-
-
+    </div> 
 
 <p>&nbsp;</p>
 
@@ -61,4 +58,22 @@ I'm in the 2023-24 job market, and I'll be presenting my work at the [2023 INCS]
 
         <input type="submit" value="Submit">
     </form>
-</div>
+</div> -->
+
+
+<!-- modify this form HTML and place wherever you want your form -->
+<form
+  action="https://formspree.io/f/mjvqlndb"
+  method="POST"
+>
+  <label>
+    Your email:
+    <input type="email" name="email">
+  </label>
+  <label>
+    Your message:
+    <textarea name="message"></textarea>
+  </label>
+  <!-- your other form fields go here -->
+  <button type="submit">Send</button>
+</form>
