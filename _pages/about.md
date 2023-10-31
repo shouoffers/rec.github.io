@@ -39,3 +39,23 @@ I'm in the 2023-24 job market, and I'll be presenting my work at the [2023 INCS]
           </form>
          </div>
     </div>
+
+
+
+<p>&nbsp;</p>
+
+
+<div class="form-container">
+    <form action="https://formspree.io/f/moqorgbn" method="POST">
+        <label for="fname">First Name</label>
+        <input type="text" id="fname" name="firstname" placeholder="Your name..">
+
+        <label for="email">Email</label>
+        <input type="email" id="email" name="email" placeholder="Your email..">
+
+        <label for="message">Message</label>
+        <textarea id="message" name="message" placeholder="Write something.." style="height:200px"></textarea>
+
+        <input type="submit" value="Submit">
+    </form>
+</div>
