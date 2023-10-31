@@ -2,7 +2,7 @@
 layout: about
 title: about
 permalink: /
-subtitle: <a href="https://www.linkedin.com/in/sijiasoniachen/" title="LinkedIn"><i class="fab fa-linkedin"></i></a> | <a href="mailto:sijia.chen@uconn.edu">sijia.chen@uconn.edu</a>
+subtitle: <a href="https://www.linkedin.com/in/sijiasoniachen/" title="LinkedIn"><i class="fab fa-linkedin"></i></a> | <a href="mailto:sijia.chen@uconn.edu">sonua@unn.edu</a>
 
 profile:
   align: right
@@ -25,6 +25,8 @@ I'm in the 2023-24 job market, and I'll be presenting my work at the [2023 INCS]
 
 <p>&nbsp;</p>
 
+<p>&nbsp;</p>
+
 <div class="contact-form container mt-5">
     <h2 class="mb-4"></h2>
     <form action="https://formspree.io/sijia.chen@uconn.edu" method="POST">
@@ -32,6 +34,7 @@ I'm in the 2023-24 job market, and I'll be presenting my work at the [2023 INCS]
             <label for="name">[Full Name]</label>
             <input type="text" class="form-control" id="name" name="name" placeholder="First and Last">
         </div>
+        <p>&nbsp;</p>
         <div class="form-group">
             <label for="email">Email Address</label>
             <input type="email" class="form-control" id="email" name="email" placeholder="email@domain.tld">
