@@ -28,6 +28,7 @@ I'm in the 2023-24 job market, and I'll be presenting my work at the [2023 INCS]
         <h2>Get in Touch</h2>
         <div id="contact-form">
             <form action="https://formspree.io/f/moqorgbn" method="POST">
+            <input type="hidden" name="_subject" value="Contact request from personal website" />
             <label for="name">Your Name:</label>
             <input type="text" id="name" name="name" required>
             <label for="email">Email</label>
