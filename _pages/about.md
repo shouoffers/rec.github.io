@@ -26,12 +26,11 @@ I'm in the 2023-24 job market, and I'll be presenting my work at the [2023 INCS]
 <p>&nbsp;</p>
 
 <p>&nbsp;</p>
-
 <div class="contact-form container mt-5">
     <h2 class="mb-4"></h2>
     <form action="https://formspree.io/sijia.chen@uconn.edu" method="POST">
         <div class="form-group">
-            <label for="name">[Full Name]</label>
+            <label for="name"><span style="color: var(--global-theme-color)">Full Name</span></label>
             <input type="text" class="form-control" id="name" name="name" placeholder="First and Last">
         </div>
         <p>&nbsp;</p>
