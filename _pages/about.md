@@ -2,7 +2,7 @@
 layout: about
 title: about
 permalink: /
-subtitle: <a href="https://www.linkedin.com/in/sijiasoniachen/" title="LinkedIn"><i class="fab fa-linkedin"></i></a> | <a href="mailto:sijia.chen@uconn.edu" title="sijia.chen@uconn.edu"></a>
+subtitle: <a href="https://www.linkedin.com/in/sijiasoniachen/" title="LinkedIn"><i class="fab fa-linkedin"></i></a> | <a href="mailto:sijia.chen@uconn.edu">sijia.chen@uconn.edu</a>
 
 profile:
   align: right
@@ -52,11 +52,11 @@ I'm in the 2023-24 job market, and I'll be presenting my work at the [2023 INCS]
             <input type="text" class="form-control" id="name" name="name" placeholder="请输入您的姓名">
         </div>
         <div class="form-group">
-            <label for="email">邮箱地址</label><p>&nbsp;</p>
+            <label for="email">邮箱地址</label>
             <input type="email" class="form-control" id="email" name="email" placeholder="请输入您的邮箱地址">
-        </div>
+        </div><p>&nbsp;</p>
         <div class="form-group">
-            <label for="message">留言内容</label><p>&nbsp;</p>
+            <label for="message">留言内容</label><br>
             <textarea class="form-control" id="message" name="message" rows="4" placeholder="请输入您的留言内容"></textarea>
         </div>
         <button type="submit" class="btn btn-primary">发送</button>
