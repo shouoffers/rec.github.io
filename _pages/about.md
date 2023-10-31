@@ -2,7 +2,7 @@
 layout: about
 title: about
 permalink: /
-subtitle: <a href="https://www.linkedin.com/in/sijiasoniachen/" title="LinkedIn"><i class="fab fa-linkedin"></i></a> | <a href="mailto:sijia.chen@uconn.edu" title="sijia.chen@uconn.edu"><i class="fas fa-envelope"></i></a>
+subtitle: <a href="https://www.linkedin.com/in/sijiasoniachen/" title="LinkedIn"><i class="fab fa-linkedin"></i></a> | <a href="mailto:sijia.chen@uconn.edu" title="sijia.chen@uconn.edu"></a>
 
 profile:
   align: right
@@ -41,3 +41,24 @@ I'm in the 2023-24 job market, and I'll be presenting my work at the [2023 INCS]
   </fieldset>
   <input type="submit" value="Submit">
 </form>
+
+<p>&nbsp;</p>
+
+<div class="contact-form container mt-5">
+    <h2 class="mb-4">留言板</h2>
+    <form action="https://formspree.io/sijia.chen@uconn.edu" method="POST">
+        <div class="form-group">
+            <label for="name">姓名</label><p>&nbsp;</p>
+            <input type="text" class="form-control" id="name" name="name" placeholder="请输入您的姓名">
+        </div>
+        <div class="form-group">
+            <label for="email">邮箱地址</label><p>&nbsp;</p>
+            <input type="email" class="form-control" id="email" name="email" placeholder="请输入您的邮箱地址">
+        </div>
+        <div class="form-group">
+            <label for="message">留言内容</label><p>&nbsp;</p>
+            <textarea class="form-control" id="message" name="message" rows="4" placeholder="请输入您的留言内容"></textarea>
+        </div>
+        <button type="submit" class="btn btn-primary">发送</button>
+    </form>
+</div>
