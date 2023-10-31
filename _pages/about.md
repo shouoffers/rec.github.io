@@ -31,8 +31,10 @@ I'm in the 2023-24 job market, and I'll be presenting my work at the [2023 INCS]
   <fieldset id="fs-frm-inputs">
     <label for="full-name">Full Name</label>
     <input type="text" name="name" id="full-name" placeholder="First and Last" required="">
+<p>&nbsp;</p>
     <label for="email-address">Email Address</label>
     <input type="email" name="_replyto" id="email-address" placeholder="email@domain.tld" required="">
+<p>&nbsp;</p>
     <label for="message">Message</label>
     <textarea rows="5" name="message" id="message" placeholder="Type your message" required=""></textarea>
     <input type="hidden" name="_subject" id="email-subject" value="Contact Form Submission">
