@@ -36,10 +36,7 @@
 
           <div class="collapse navbar-collapse text-right" id="navbarNav">
             <ul class="navbar-nav ml-auto flex-nowrap">
-            <!-- CV Link -->
-            <li class="nav-item">
-              <a class="nav-link" href="{{ site.baseurl }}/https://www.dropbox.com>CV</a>
-            </li>
+
 
               {%- for page in site.pages -%}
                 {% if page.permalink == '/' %}
@@ -55,7 +52,10 @@
                   {%- endif -%}
                 </a>
               </li>
-
+              <!-- CV Link -->
+              <li class="nav-item">
+                <a class="nav-link" href="{{ site.baseurl }}/https://www.dropbox.com>CV</a>
+              </li>
 
               <!-- Other pages -->
               {%- assign sorted_pages = site.pages | sort: "nav_order" -%}
