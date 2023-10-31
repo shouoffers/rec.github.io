@@ -23,6 +23,9 @@ I am a Ph.D. candidate in the Department of Agri Econ at the University of Jon. 
 
 I'm in the 2023-24 job market, and I'll be presenting my work at the [2023 INCS](https://iatrc.umn.edu/2023-iatrc-annual-meeting/). My job market paper examines the effects of the implementation of anti-dumping and countervailing duties on US agricultural imports.
 
+<p>&nbsp;</p>
+<p>&nbsp;</p>
+
 
 <div id="contact">
         <h2>Get in Touch</h2>
