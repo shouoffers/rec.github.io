@@ -26,6 +26,10 @@ I'm in the 2023-24 job market, and I'll be presenting my work at the [2023 INCS]
 <p>&nbsp;</p>
 
 <p>&nbsp;</p>
+
+<p>&nbsp;</p>
+
+
 <div class="contact-form container mt-5">
     <h2 class="mb-4"></h2>
     <form action="https://formspree.io/sijia.chen@uconn.edu" method="POST">
@@ -41,7 +45,7 @@ I'm in the 2023-24 job market, and I'll be presenting my work at the [2023 INCS]
         <p>&nbsp;</p>
         <div class="form-group">
             <label for="message"><span style="color: var(--global-theme-color)">Message</span></label>
-            <textarea class="form-control" id="message" name="message" rows="4" placeholder=<span style="color: var(--global-theme-color)">"Type your message"</span>></textarea>
+            <textarea class="form-control" id="message" name="message" rows="4" placeholder="Type your message"></textarea>
         </div>
         <button type="submit" class="btn btn-primary">Send</button>
     </form>
