@@ -58,14 +58,9 @@ I'm in the 2023-24 job market, and I'll be presenting my work at the [2023 INCS]
 
         <input type="submit" value="Submit">
     </form>
-</div> -->
+</div> 
 
-
-
-
-{% include contact-form.html %}
-
-<!-- modify this form HTML and place wherever you want your form -->
+modify this form HTML and place wherever you want your form 
 <form
   action="https://formspree.io/f/mjvqlndb"
   method="POST"
@@ -78,6 +73,24 @@ I'm in the 2023-24 job market, and I'll be presenting my work at the [2023 INCS]
     Your message:
     <textarea name="message"></textarea>
   </label>
-  <!-- your other form fields go here -->
+  <!-- your other form fields go here 
   <button type="submit">subii</button>
+</form>
+
+
+{% include contact-form.html %}
+-->
+
+
+<form id="fs-frm" name="simple-contact-form" accept-charset="utf-8" action="https://formspree.io/f/mjvqlndb" method="post">
+  <fieldset id="fs-frm-inputs">
+    <label for="full-name">Full Name</label>
+    <input type="text" name="name" id="full-name" placeholder="First and Last" required="">
+    <label for="email-address">Email Address</label>
+    <input type="email" name="_replyto" id="email-address" placeholder="email@domain.tld" required="">
+    <label for="message">Message</label>
+    <textarea rows="5" name="message" id="message" placeholder="Type your message" required=""></textarea>
+    <input type="hidden" name="_subject" id="email-subject" value="Contact Form Submission">
+  </fieldset>
+  <input type="submit" value="Submit">
 </form>
