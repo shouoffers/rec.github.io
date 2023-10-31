@@ -25,40 +25,22 @@ I'm in the 2023-24 job market, and I'll be presenting my work at the [2023 INCS]
 
 <p>&nbsp;</p>
 
-
-
-<form id="fs-frm" name="simple-contact-form" accept-charset="utf-8" action="https://formspree.io/f/mjvqlndb" method="post">
-  <fieldset id="fs-frm-inputs">
-    <label for="full-name">Full Name</label>
-    <input type="text" name="name" id="full-name" placeholder="First and Last" required="">
-<p>&nbsp;</p>
-    <label for="email-address">Email Address</label>
-    <input type="email" name="_replyto" id="email-address" placeholder="email@domain.tld" required="">
-<p>&nbsp;</p>
-    <label for="message">Message</label>
-    <textarea rows="5" name="message" id="message" placeholder="Type your message" required=""></textarea>
-    <input type="hidden" name="_subject" id="email-subject" value="Contact Form Submission">
-  </fieldset>
-  <input type="submit" value="Submit">
-</form>
-
-<p>&nbsp;</p>
-
 <div class="contact-form container mt-5">
-    <h2 class="mb-4">留言板</h2>
+    <h2 class="mb-4"></h2>
     <form action="https://formspree.io/sijia.chen@uconn.edu" method="POST">
         <div class="form-group">
-            <label for="name">姓名</label><p>&nbsp;</p>
-            <input type="text" class="form-control" id="name" name="name" placeholder="请输入您的姓名">
+            <label for="name">[Full Name]</label>
+            <input type="text" class="form-control" id="name" name="name" placeholder="First and Last">
         </div>
         <div class="form-group">
-            <label for="email">邮箱地址</label>
-            <input type="email" class="form-control" id="email" name="email" placeholder="请输入您的邮箱地址">
-        </div><p>&nbsp;</p>
-        <div class="form-group">
-            <label for="message">留言内容</label><br>
-            <textarea class="form-control" id="message" name="message" rows="4" placeholder="请输入您的留言内容"></textarea>
+            <label for="email">Email Address</label>
+            <input type="email" class="form-control" id="email" name="email" placeholder="email@domain.tld">
         </div>
-        <button type="submit" class="btn btn-primary">发送</button>
+        <p>&nbsp;</p>
+        <div class="form-group">
+            <label for="message">Message</label>
+            <textarea class="form-control" id="message" name="message" rows="4" placeholder="Type your message"></textarea>
+        </div>
+        <button type="submit" class="btn btn-primary">Send</button>
     </form>
 </div>
