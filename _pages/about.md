@@ -61,6 +61,10 @@ I'm in the 2023-24 job market, and I'll be presenting my work at the [2023 INCS]
 </div> -->
 
 
+
+
+{% include contact-form.html %}
+
 <!-- modify this form HTML and place wherever you want your form -->
 <form
   action="https://formspree.io/f/mjvqlndb"
