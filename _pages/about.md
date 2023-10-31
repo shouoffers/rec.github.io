@@ -41,7 +41,7 @@ I'm in the 2023-24 job market, and I'll be presenting my work at the [2023 INCS]
         <p>&nbsp;</p>
         <div class="form-group">
             <label for="message"><span style="color: var(--global-theme-color)">Message</span></label>
-            <textarea class="form-control" id="message" name="message" rows="4" placeholder="<span style="color: var(--global-theme-color)">Type your message</span>"></textarea>
+            <textarea class="form-control" id="message" name="message" rows="4" placeholder=<span style="color: var(--global-theme-color)">"Type your message"</span>></textarea>
         </div>
         <button type="submit" class="btn btn-primary">Send</button>
     </form>
