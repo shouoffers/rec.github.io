@@ -24,62 +24,7 @@ I am a Ph.D. candidate in the Department of Agri Econ at the University of Jon. 
 I'm in the 2023-24 job market, and I'll be presenting my work at the [2023 INCS](https://iatrc.umn.edu/2023-iatrc-annual-meeting/). My job market paper examines the effects of the implementation of anti-dumping and countervailing duties on US agricultural imports.
 
 <p>&nbsp;</p>
-<p>&nbsp;</p>
 
-<!-- <div id="contact">
-        <h2>Get in Touch</h2>
-        <div id="contact-form">
-            <form action="https://formspree.io/f/moqorgbn" method="POST">
-            <input type="hidden" name="_subject" value="Contact request from personal website" />
-            <label for="name">Your Name:</label>
-            <input type="text" id="name" name="name" required>
-            <label for="email">Email</label>
-            <input type="email" id="email" placeholder="Your email" name="email" required>
-            <label for="message">Messages</label>
-            <textarea id="message" placeholder="Type your message" name="message" rows="4" required></textarea>
-            <input type="submit" value="Send">
-          </form>
-         </div>
-    </div> 
-
-<p>&nbsp;</p>
-
-
-<div class="form-container">
-    <form action="https://formspree.io/f/moqorgbn" method="POST">
-        <label for="fname">First Name</label>
-        <input type="text" id="fname" name="firstname" placeholder="Your name..">
-
-        <label for="email">Email</label>
-        <input type="email" id="email" name="email" placeholder="Your email..">
-
-        <label for="message">Message</label>
-        <textarea id="message" name="message" placeholder="Write something.." style="height:200px"></textarea>
-
-        <input type="submit" value="Submit">
-    </form>
-</div> 
-
-modify this form HTML and place wherever you want your form 
-<form
-  action="https://formspree.io/f/mjvqlndb"
-  method="POST"
->
-  <label>
-    Your email:
-    <input type="email" name="email">
-  </label>
-  <label>
-    Your message:
-    <textarea name="message"></textarea>
-  </label>
-  <!-- your other form fields go here 
-  <button type="submit">subii</button>
-</form>
-
-
-{% include contact-form.html %}
--->
 
 
 <form id="fs-frm" name="simple-contact-form" accept-charset="utf-8" action="https://formspree.io/f/mjvqlndb" method="post">
