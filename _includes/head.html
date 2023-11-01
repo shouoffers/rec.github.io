@@ -36,6 +36,4 @@
     <script src="{{ '/assets/js/theme.js' | relative_url | bust_file_cache }}"></script>
     <script src="{{ '/assets/js/dark_mode.js' | relative_url | bust_file_cache }}"></script>
 
-    {% if site.google_analytics and jekyll.environment == 'production' %}
-    {% include analytics.html %}    
     {% endif %}
