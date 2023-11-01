@@ -11,7 +11,8 @@ nav_order: 5
 <font size="5"><u> Instructor of Record </u></font>
 
 <p>&nbsp;</p>
-ARE 4476: **International Trade and Policy**, University of Jon (Fall 2023) - [Syllabus](https://www.dropbox.com/scl/fi/baydir1lr6sxo8710neay/ARE4476_Syllabus_fall23.pdf?rlkey=sdderjw9ui4brcj0l49oywdxk&dl=0)
+ARE 4476: **International Trade and Policy**, University of Jon (Fall 2023) 
+Small Class Size: 20 students - [Syllabus](https://www.dropbox.com/scl/fi/baydir1lr6sxo8710neay/ARE4476_Syllabus_fall23.pdf?rlkey=sdderjw9ui4brcj0l49oywdxk&dl=0)
 
 
 
