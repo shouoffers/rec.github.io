@@ -16,7 +16,7 @@ nav_order: 4
 *with Colin A. Carter and Sandro Steinbach*
 
 
-**Assessing the Global Trade Effects of U.S. Sunset Reviews**  \
+**Assessing the Global Trade Effects of U.S. Sunset Reviews**<br>
 *with Sandro Steinbach*
 
 
