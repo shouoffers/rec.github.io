@@ -9,9 +9,10 @@ profile:
   image: picc.jpg
   image_circular: false # crops the image to make it circular
   more_info: >
-    <p>555 er</p>
-    <p>123 your adreet</p>
-    <p>Your City,345</p>
+    <p>1376 Storrs Road,</p>
+    <p>Unit 4021,</p>
+    <p>Storrs, CT 06269-4021</p>
+
 
 news: false  # includes a list of news items
 latest_posts: false  # includes a list of the newest posts
