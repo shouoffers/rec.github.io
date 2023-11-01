@@ -16,7 +16,7 @@ nav_order: 4
 *with Colin A. Carter and Sandro Steinbach*
 
 
-**Assessing the Global Trade Effects of U.S. Sunset Reviews** 
+**Assessing the Global Trade Effects of U.S. Sunset Reviews**  
 *with Sandro Steinbach*
 
 
@@ -24,5 +24,5 @@ nav_order: 4
 *with Sandro Steinbach*
 
 
-**[Zwick Center for Food and Resource Policy Outreach Report No. 55: Establishments and Jobs in the Connecticut Agricultural System in 2017](https://www.dropbox.com/scl/fi/81qeux8xm1cp9bsahev2o/Zwick-Center-for-Food-and-Resource-Policy-Outreach-Report-No.-55.pdf?rlkey=s2f5d6lt5o6zrnz7cjjgd0ofj&dl=0)** 
+**[Zwick Center for Food and Resource Policy Outreach Report No. 55: Establishments and Jobs in the Connecticut Agricultural System in 2017](https://www.dropbox.com/scl/fi/81qeux8xm1cp9bsahev2o/Zwick-Center-for-Food-and-Resource-Policy-Outreach-Report-No.-55.pdf?rlkey=s2f5d6lt5o6zrnz7cjjgd0ofj&dl=0)**  
 *with Rigoberto A. Lopez*
