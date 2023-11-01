@@ -12,7 +12,7 @@ nav_order: 4
 
 <p>&nbsp;</p>
 
-**Revisiting the Effects of Trade Remedies on U.S. Agricultural Imports**\  
+**Revisiting the Effects of Trade Remedies on U.S. Agricultural Imports**  
 *with Colin A. Carter and Sandro Steinbach*
 
 
