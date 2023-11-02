@@ -10,7 +10,7 @@ profile:
   image_circular: false # crops the image to make it circular
   more_info: >
     <p>1376 Storrs Road, Unit</p>
-    <p>4021, Storrs, CT 06269-4021</p>
+    <p>4021, Storrs, CT 06269</p>
 
 
 news: false  # includes a list of news items
