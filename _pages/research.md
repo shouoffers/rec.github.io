@@ -1,10 +1,11 @@
 ---
 layout: page
 permalink: /research/
-title: Research
+title: ""
 description: 
 nav: true
 nav_order: 4
+nav_title: Research
 ---
 
 <!-- <strong style="font-size: 22px;">Instructor of Record</strong> -->
