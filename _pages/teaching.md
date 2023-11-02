@@ -23,10 +23,10 @@ ARE 4476: **International Trade and Policy**, University of Jon (Fall 2023)\
 
 <font size="5"><u> Teaching Assistant </u></font>
 <p>&nbsp;</p>
-Econ 2215: **Business Management** (Spring 2023)
+ARE 2215: **Business Management** (Spring 2023)
 
-Econ 3221: **Managerial Economics and Business Strategies** (Spring 2019, Spring 2021)
+ARE 3221: **Managerial Economics and Business Strategies** (Spring 2019, Spring 2021)
 
-Econ 4217: **Business Finance and Investment Management** (Spring 2019, Spring 2021)
+ARE 4217: **Business Finance and Investment Management** (Spring 2019, Spring 2021)
 
-Econ 4279: **International Commodity Trade** (Fall 2018)
+ARE 4279: **International Commodity Trade** (Fall 2018)
