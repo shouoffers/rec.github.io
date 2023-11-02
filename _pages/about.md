@@ -2,8 +2,7 @@
 layout: about
 title: about
 permalink: /
-subtitle: <a href="https://www.linkedin.com/in/sijiasoniachen/" title="LinkedIn"><i class="fab fa-linkedin"></i></a> | <a href="mailto:sijia.chen@uconn.edu">sijia.chen@uconn.edu</a>
-
+subtitle: <a href="https://www.linkedin.com/in/sijiasoniachen/" title="LinkedIn"><i class="fab fa-linkedin"></i></a> | [sijia.chen@uconn.edu](mailto:sijia.chen@uconn.edu)
 profile:
   align: right
   image: picc.jpg
