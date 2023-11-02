@@ -2,14 +2,14 @@
 layout: about
 title: about
 permalink: /
-subtitle: <a href="https://www.linkedin.com/in/sijiasoniachen/" title="LinkedIn"><i class="fab fa-linkedin"></i></a> | [sijia.chen@uconn.edu](mailto:sijia.chen@uconn.edu)
+subtitle: <a href="https://www.linkedin.com/in/sijiasoniachen/" title="LinkedIn"><i class="fab fa-linkedin"></i></a> | <a href="mailto:sijia.chen@uconn.edu">sijia.chen@uconn.edu</a>
+
 profile:
   align: right
   image: picc.jpg
   image_circular: false # crops the image to make it circular
   more_info: >
-    <p>1376 Storrs Road,</p>
-    <p>Unit 4021,</p>
+    <p>1376 Storrs Road, Unit 4021</p>
     <p>Storrs, CT 06269-4021</p>
 
 
