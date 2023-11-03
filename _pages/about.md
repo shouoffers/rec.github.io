@@ -6,7 +6,7 @@ subtitle: <a href="https://www.linkedin.com/in/sijiasoniachen/" title="LinkedIn"
 
 profile:
   align: right
-  image: front.jpg
+  image: piic.jpg
   image_circular: false # crops the image to make it circular
   more_info: 
     <p>1376 Storrs Road, Unit</p>
