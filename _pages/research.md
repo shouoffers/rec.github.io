@@ -14,7 +14,7 @@ nav_title: Research
 <p>&nbsp;</p>
 
 **Revisiting the Effects of Trade Remedies on U.S. Agricultural Imports**  
-*with Colin A. Carter and Sandro Steinbach*
+*Job Market Paper*
 
 
 **Assessing the Global Trade Effects of U.S. Sunset Reviews**\
