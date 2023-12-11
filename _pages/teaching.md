@@ -14,7 +14,7 @@ nav_order: 5
 <p>&nbsp;</p>
 
 ARE 4476: **International Trade and Policy**, University of Connecticut (Fall 2023)\
-*Class Size: 20 students* - [Syllabus](https://www.dropbox.com/scl/fi/eukd51o4jabjad2kipo4i/ARE4476_Syllabus_fall23.pdf?rlkey=bau4hkxewkiu9itcnu6sqccts&dl=0)
+*Class Size: 20 students* - [Syllabus](https://drive.google.com/file/d/1ctFxvFmaS2qg6lidsCDsCUYOWeqPWo70/view?usp=drive_link)
 
 
 <p>&nbsp;</p>
